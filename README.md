@@ -1,5 +1,5 @@
 #  LITA-Project
-This is where i documentated my first project while learning data analysis with the incubator Hub.
+This is where i documented my first project while learning data analysis with the incubator Hub.
    
 ### Project Title:E-Commerce Sales Analysis
 
