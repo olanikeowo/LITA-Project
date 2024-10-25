@@ -1,4 +1,4 @@
-#  LITA-CLASS_DOCUMENTATION
+#  LITA_CLASS_DOCUMENTATION
 This is where i documented all we were taught in the class while learning data analysis with the incubator Hub.
    
 ### Title:E-Commerce Sales Analysis
@@ -36,26 +36,29 @@ The following Data Cleaning and Preparations were performed:
 ---
 This involved the exploring of the Data to answer some questions such as;
  - Calculate the following using Excel:
- i.  The Top 10 store by Revenue
- ii. Region by Unitsold
-iii. Top 5 market by Revenue
- iv. Bottom 5 store by Unitsold
+   - The Top 10 store by Revenue
+   - Region by Unitsold
+   - Top 5 market by Revenue
+   - Bottom 5 store by Unitsold
 - Write queries to extract key insight based onthe following questions:
-  i. Find the Region with the highest UnitSold?
- ii. Calculate the highest revenue by Region?
-iii. which store has the highest Revenue?
+   - Find the Region with the highest UnitSold?
+   - Calculate the highest revenue by Region?
+   - which store has the highest Revenue?
 - Create a dashboard that visualizes the insights found in Excel and SQL.
 ---
 ### Data Analysis
-We used Pivot tables to calculate the Sales Revenue with Region,Market,Store and UnitSold.
+   We used Pivot tables to calculate the Sales Revenue with Region,Market,Store and UnitSold.
  Several Structured queries were written to get the right tables and then saved as views in the database on 
  SQL Management Studio.
  Using this Syntax
- '''SQL
- SELECT * FROM TABLE 1
+ "SQL
+ SELECT *(  
+ FROM TABLE 1
  WHERE CONDITION = TRUE
- '''
+ );
  These tables were imported into PowerBI desktop for analysis and also DAX expression were used during analyzing the Data.
+ Column quality, Column distributions, Empty columns and appropriate Datatypes were checked when the Data was transformed into 
+ the Power Query.
 
 ### Data Visualization
 
