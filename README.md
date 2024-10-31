@@ -1,4 +1,4 @@
-#  LITA_CLASS_DOCUMENTATION
+##  LITA_CLASS_DOCUMENTATION
 This is where i documented all we were taught in the class while learning data analysis with the incubator Hub.   
 ### Title:E-Commerce Sales Analysis
 ---
