@@ -28,10 +28,12 @@ The following Data Cleaning and Preparations were performed:
 ### Exploratory Data Analysis
 This involved the exploring of the Data to answer some questions such as;
  - Calculate the following using Excel:
-   - The Top 10 store by Revenue
+   - The Top 5 store by Total Revenue
+   - Region by Total Revenue
    - Region by Unitsold
-   - Top 5 market by Revenue
-   - Bottom 5 store by Unitsold
+   - Top 5 market by total Revenue
+   - 5 Bottom store by Unitsold
+   - Total Revenue by years
 - Write queries to extract key insight based onthe following questions:
    - Find the Region with the highest UnitSold?
    - Calculate the highest revenue by Region?
@@ -55,6 +57,7 @@ This involved the exploring of the Data to answer some questions such as;
 ---
 ### Data Visualization
 
+![Uploading Top 5 Store By Revenue.png…]()
 
 
 
