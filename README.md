@@ -78,8 +78,6 @@ This involved the exploring of the Data to answer some questions such as;
 - Diagram
 
  - ![Uploading Screenshot 2024-11-08 204449.png…]()
-![Uploading Screenshot 2024-11-08 204449.png…]()
-
 
 ---
 ### DATA VISUALIZATION
