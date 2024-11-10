@@ -20,14 +20,15 @@ This is where i documented all we were taught in the class while learning data a
 
 ---
 ### CLASS OVERVIEW
-    The purpose of this analysis is to generate insight into the Sales Performance of E-Commerce project.
-    It is done by analyzing the various parameters in the Data recieved,in order to gather insights to make 
-    reasonable decisions which enable to tell compelling stories and know the best performance from the Data
-    by identifying sales trends, improving strategies and increasing the revenue.
+    The purpose of this analysis is to generate insight into the Sales Performance 
+    of E-Commerce project. It is done by analyzing the various parameters in the Data
+    recieved,in order to gather insights to make reasonable decisions which enable to
+    tell compelling stories and know the best performance from the Data by identifying 
+    sales trends, improving strategies and increasing the revenue.
 ---      
 ### DATA SOURCES
-    The Data used for this project is Data Sales.csv which is gotten from LITA Incubator Hub and it is an open 
-    source online such as Kaggle or any other repository site.
+    The Data used for this project is Data Sales.csv which is gotten from LITA Incubator 
+    Hub and it is an open source online such as Kaggle or any other repository site.
 ---  
 ### TOOLS USED
 - Microsoft Excel [Download Here](https://www.microsoft.com)
@@ -87,4 +88,4 @@ This involved the exploring of the Data to answer some questions such as;
 
 
 ### RECOMMEDATIONS
-
+ 
