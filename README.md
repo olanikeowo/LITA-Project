@@ -88,4 +88,6 @@ This involved the exploring of the Data to answer some questions such as;
 
 
 ### RECOMMEDATIONS
-  
+  I recommend, there should be an increase in employees's salaries, incentives and bonuses should be given to the employees 
+  for encouragement and regular communication with the employees should be done to understand their concerns and address them 
+  to know if the organization's policies are bad.
